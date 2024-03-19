@@ -2,7 +2,7 @@
 18th of March, 2024
 Ms. Krasteva
 Bézier Function in Processing: Dove CopyCat Activity
-By Mark Danishevsky
+By Anthony Nistor
 */
 
 void setup(){
